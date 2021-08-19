@@ -1,0 +1,109 @@
+{
+  "selectedTemplate": 9,
+  "headings": {
+    "work": "Experience",
+    "skills": "Skills",
+    "projects": "",
+    "awards": "",
+    "education": "High School"
+  },
+  "basics": {
+    "name": "McCall Strickland",
+    "email": "stricklandrms1228@gmail.com",
+    "phone": "‪(347) 709-4754‬",
+    "website": "",
+    "location": {
+      "address": "Cumming, GA"
+    }
+  },
+  "education": [
+    {
+      "location": "Cumming, GA",
+      "area": "",
+      "studyType": "",
+      "startDate": "August 2012",
+      "gpa": "",
+      "institution": "Forsyth Central High School",
+      "endDate": "May 2016"
+    }
+  ],
+  "work": [
+    {
+      "location": "Cumming, GA",
+      "position": "Cook",
+      "website": "",
+      "startDate": "July 2014",
+      "endDate": "October 2020",
+      "highlights": [
+        "Food preparation, Cleaning, Taking orders in person and over the phone.  "
+      ],
+      "company": "Pizza Hut"
+    }
+  ],
+  "skills": [
+    {
+      "level": "",
+      "keywords": [
+        null
+      ],
+      "name": "Excellent trouble shooting skills"
+    },
+    {
+      "keywords": [
+        ""
+      ],
+      "name": "Effective communicator"
+    },
+    {
+      "keywords": [
+        ""
+      ],
+      "name": "Eager to learn and a hard worker"
+    },
+    {
+      "keywords": [
+        null
+      ],
+      "name": "Familiar with Windows 7, 8 and 10"
+    },
+    {
+      "keywords": [
+        ""
+      ],
+      "name": "Malware removal"
+    },
+    {
+      "keywords": [
+        ""
+      ],
+      "name": "Great at working in a team environment "
+    }
+  ],
+  "projects": [
+    {
+      "name": "",
+      "description": "",
+      "url": "",
+      "keywords": [
+        ""
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "work",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
